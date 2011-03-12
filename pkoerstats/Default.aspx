@@ -8,7 +8,7 @@
         Willkommen bei ASP.NET!
     </h2>
     <p>
-        Weitere Informationen zu ASP.NET finden Sie auf <a href="http://www.asp.net" title="ASP.NET-Website">www.asp.net</a>.
+        Weitere Informationen zualjgbvagdj ASP.NET finden Sie auf <a href="http://www.asp.net" title="ASP.NET-Website">www.asp.net</a>.
     </p>
     <p>
         <a href="http://go.microsoft.com/fwlink/?LinkID=152368"
